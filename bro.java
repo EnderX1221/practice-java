@@ -32,8 +32,8 @@ public class bro {
             int age = scanner.nextInt();
 
             System.out.println("Hello "+name);
-            System.out.println("You are");
-            
+            System.out.println("You are "+age+" years old");
+
 
 
 
